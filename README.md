@@ -1,4 +1,4 @@
-# Assignment 2: React Task Manager (Simplified)
+# Assignment 2: React Task Manager
 ## INFO 153A/253A Front-End Web Architecture - Fall 2025
 
 **Points:** 100 points  
